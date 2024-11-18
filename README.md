@@ -1,6 +1,7 @@
 Twitter Sentiment Analysis and Rephase by John O'Dell
 
 You will need 
+
     - pip PyCharm
     - pip AutoTokenizer
     - An OpenAi API https://openai.com/api/
